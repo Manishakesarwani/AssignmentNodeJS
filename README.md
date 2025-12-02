@@ -1,3 +1,6 @@
+In this server setup, the default page loads on the first run and displays navigation links for all three sections: Home, About, and Contact. Users can click these links to seamlessly move between the respective pages. Each section is designed to load independently, ensuring clear navigation and a smooth browsing experience. This structure helps users access information quickly while maintaining an organized layout across the entire application.
+
+Attaching below the screenshot for each of them.
 <img width="1918" height="575" alt="image" src="https://github.com/user-attachments/assets/e6b084c2-57ae-4aa8-8cf6-500910ffecf7" />
 <img width="1918" height="531" alt="image" src="https://github.com/user-attachments/assets/1879198f-f9b6-4480-8a7d-92829cd00ead" />
 <img width="1918" height="647" alt="image" src="https://github.com/user-attachments/assets/5ea6762e-b87b-4f9d-a477-02e01c1e2369" />
